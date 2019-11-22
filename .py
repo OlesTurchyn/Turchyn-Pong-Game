@@ -2,6 +2,8 @@
 #Program: Pong Game
 #Date: August 28, 2019
 
+#freeCodeCamp.org | Python Game Tutorial: Pong
+
 import turtle 
 
 #Game Window configurations
@@ -59,7 +61,6 @@ pen.color("White")
 pen.penup()
 pen.hideturtle()
 pen.goto(0,190)
-pen.write("Slava Ukrayini!", align="center", font =("Courier", 24, "normal"))
 
 #FUNCTIONS
 
